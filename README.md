@@ -1,2 +1,1 @@
-# ML & DL Study
-ML & DL study with Aiffel
+# ML & DL Study with Aiffel
